@@ -1,0 +1,43 @@
+
+	SETTINGS UP SASS ENVIROMENTS.
+	=============================
+	STEP-1 INSTALL NODE.
+	https://nodejs.org/en/
+	* node -v
+----------------------------------------------------------------------------
+	STEP-2 INSTALL PACKAGE.JSON FILE.
+	* npm init
+----------------------------------------------------------------------------
+	PACKAGES WE NEED
+	1 - DART-SASS
+	2 - BOOTSTRAP
+	3 - FONTAWESOME
+	4 - AUTOPREFIXER
+
+----------------------------------------------------------------------------
+	DART-SASS INSTALLTION
+	https://www.npmjs.com/package/dart-sass
+	* npm install --save-dev sass
+----------------------------------------------------------------------------
+	BOOTSTRAP INSTALLTION
+	https://getbootstrap.com/
+	* npm install bootstrap --save
+----------------------------------------------------------------------------
+	FONTAWESOME INSTALLTION
+	https://fontawesome.com/v5/docs/web/setup/use-package-managers
+	* npm install --save @fortawesome/fontawesome-free
+----------------------------------------------------------------------------
+	AUTOPREFIXER INSTALLTION
+	https://github.com/postcss/autoprefixer#readme
+	* npm install postcss-cli autoprefixer
+----------------------------------------------------------------------------
+	* npm run compile-sass
+
+----------------------------------------------------------------------------
+
+	for the intro section 
+	download picture form: https://www.manypixels.co/gallery
+	get waves.io from: https://getwaves.io/
+	get fonts from : https://fonts.google.com/
+	select: regular 400, medium 500, sami-bold 600, bold 700, extra-bold 800, black-900
+	get glightbox for video: https://biati-digital.github.io/glightbox/
